@@ -2,7 +2,7 @@
   "name": "expense_traker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KJassal.github.io/expense_traker",
+  "homepage": "https://KJassal.github.io/Expense_Tracker_Using_React-master",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "bootstrap": "^5.3.3",
@@ -22,7 +22,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
